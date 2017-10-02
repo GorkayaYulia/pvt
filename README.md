@@ -1,5 +1,5 @@
 Front-end courses
 
-**sample bold**
+<strong>sample bold tag</strong>
 `sample code`
-[Contribution guidelines for this project](interview/js/1/Questions.md)
+[Вопросы для интервью](interview/js/1/Questions.md)
