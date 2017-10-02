@@ -4,9 +4,9 @@
 
 <ul>
     <li>
-        [Вопросы для интервью](interview/js/1/Questions.md)
+        <a href="interview/js/1/Questions.md">Вопросы для интервью]</a>
     </li>
     <li>
-        [FD-01](FD-01/MAIN.md)
+        <a href="interview/js/1/FD-01/MAIN.md">FD-01</a>
     </li>
 </ul>

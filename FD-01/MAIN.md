@@ -4,6 +4,6 @@
 
 <ul>
     <li>
-        [01 - ](lectures/01.md)
+        <a href="lectures/01.md">01</a>
     </li>
 </ul>
