@@ -7,6 +7,9 @@
         <a href="interview/js/1/Questions.md">Вопросы для интервью</a>
     </li>
     <li>
+        <a href="js/debugging/README.md">Дебаггинг</a>
+    </li>
+    <li>
         <a href="FD-01/MAIN.md">FD-01</a>
     </li>
 </ul>
