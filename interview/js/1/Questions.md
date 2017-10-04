@@ -4,8 +4,8 @@
 3. Что вернет вызов функции? <br/>
     `let fooSample = function(){ return arguments.shift(0) }; fooSample(1,2,3)`;
 4. Объясните почему: <br/>
-    `1 == new Number(1) //-> true; <br/>
-     1 === new Number(1) //-> false`;
+    <code>1 == new Number(1) //-> true; <br/>
+     1 === new Number(1) //-> false</code>;
 5. Что получится в результате? <br/>
     `let [,,foo,,,...boo] = [1,2,3,4,5,6,7,8,9,10]`;
 6. Как отменить распространение события (всплытие/перехват)?
