@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            font-size: 1.1em;
+        }
+
+        ol li {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <ol>
+        <li>
+            С какого места кода не доступны свойства и методы глобального объекта?
+        </li>
+        <li>
+            Что получится в результате сравнения и почему <br/>
+            <code>
+                (function(){})() === window.такоеВотСвойство;
+            </code>
+        </li>
+        <li>
+            Что вернет вызов функции? <br/>
+            <code>
+                let fooSample = function(){ return arguments.shift(0) };<br/>
+                fooSample(1,2,3)`;
+            </code>
+        </li>
+        <li>
+            Объясните почему: <br/>
+            <code>
+                1 == new Number(1) //-> true;<br/>
+                1 === new Number(1) //-> false;
+            </code>
+        </li>
+        <li>
+            Что получится в результате? <br/>
+            <code>
+                let [,,foo,,,...boo] = [1,2,3,4,5,6,7,8,9,10];
+            </code>
+        </li>
+        <li>
+            Как отменить распространение события (всплытие/перехват)?
+        </li>
+        <li>
+            Что и почему вернет: <br/>
+            <code>
+                {} === {}
+            </code>
+        </li>
+        <li>
+            Что и почему вернет:<br/>
+            <code>
+                (function() {
+                    var foo = boo = 1;
+                })();
+                <br/>
+                console.log(foo);
+                console.log(boo)
+            </code>
+        </li>
+        <li>
+            Что означает и для чего используется конструкция (примеры): <br/>
+            <code>
+                'use strict'
+            </code>
+        </li>
+        <li>
+            <strong>Внимательно</strong> посмотрите на код и скажите, что он вернет и почему:<br/>
+            <code>
+                function foo1() {
+                    return {
+                        boo: "hello"
+                    };
+                }
+                <br/>
+                function foo2(){
+                    return
+                    {
+                        boo: "hello"
+                    };
+                }
+                <br/>
+                foo1();
+                foo2();
+            </code>
+        </li>
+        <li>
+            Что вернет этот код:<br/>
+            <code>
+                (function() {
+                    console.log(1);
+                    setTimeout(function(){console.log(2)}, 1000);
+                    setTimeout(function(){console.log(3)}, 0);
+                    console.log(4);
+                })();
+            </code>
+        </li>
+        <li>
+            Что и почему вернет:<br/>
+            <code>
+                3 +  +"5" + "5";
+                3 +  -"5" + "5"
+                typeof (3 +  -"5" + "5")
+                "Z" - "W" + 2
+            </code>
+        </li>
+        <li>
+            Что вернет код. Как называется прием, которым он (код) реализован:<br/>
+            <code>
+                let foo = 1;
+
+                function updateFoo() {
+                    foo += 1;
+
+                    if (foo < 5) {
+                        updateFoo();
+                    }
+                }
+
+                updateFoo();
+                updateFoo();
+
+                console.log(someVar);
+            </code>
+        </li>
+        <li>
+            Что и в каком интервале выведет код:<br/>
+            <code>
+                for (var i = 0; i < 5; i++) {
+                    setTimeout(function() { console.log(i); }, i * 1000 );
+                }
+            </code>
+        </li>
+        <li>
+            Что выведет код:<br/>
+                <code>
+                    var a={},
+                        b={key:'b'},
+                        c={key:'c'};
+                    a[b] = 3;
+                    a[c] = 5;
+                console.log(a[b]);
+                </code>
+        </li>
+        <li>
+            Что выведет код:<br/>
+            <code>
+                console.log(typeof typeof 1);
+            </code>
+        </li>
+    </ol>
+</body>
+</html>
