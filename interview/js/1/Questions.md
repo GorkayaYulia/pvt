@@ -13,8 +13,7 @@
 6. Как отменить распространение события (всплытие/перехват)?
 7. Что и почему вернет: <code> {} === {} </code>
 8. Что и почему вернет:
-    <code>
-        (function() {
+    <code>(function() {
             var foo = boo = 1;
         })();
 
@@ -23,8 +22,7 @@
     </code>
 9. Что означает и для чего используется конструкция (примеры): <code> 'use strict' </code>
 10. <strong>Внимательно</strong> посмотрите на код и скажите, что он вернет и почему:
-    <code>
-        function foo1()
+    <code>function foo1()
         {
           return {
               boo: "hello"
@@ -43,8 +41,7 @@
         foo2();
     </code>
 11. Что вернет этот код:
-    <code>
-        (function() {
+    <code>(function() {
             console.log(1);
             setTimeout(function(){console.log(2)}, 1000);
             setTimeout(function(){console.log(3)}, 0);
@@ -52,15 +49,13 @@
         })();
     </code>
 12. Что и почему вернет:
-    <code>
-        3 +  +"5" + "5";
+    <code>3 +  +"5" + "5";
         3 +  -"5" + "5"
         typeof (3 +  -"5" + "5")
         "Z" - "W" + 2
     </code>
 13. Что вернет код. Как называется прием, которым он (код) реализован:
-    <code>
-        let foo = 1;
+    <code>let foo = 1;
 
         function updateFoo() {
         	foo += 1;
@@ -76,14 +71,12 @@
         console.log(someVar);
     </code>
 14. Что и в каком интервале выведет код:
-    <code>
-        for (var i = 0; i < 5; i++) {
+    <code>for (var i = 0; i < 5; i++) {
           setTimeout(function() { console.log(i); }, i * 1000 );
         }
     </code>
 15. Что выведет код:
-    <code>
-        var a={},
+    <code>var a={},
             b={key:'b'},
             c={key:'c'};
         a[b] = 3;
@@ -92,6 +85,5 @@
         console.log(a[b]);
     </code>
 16. Что выведет код:
-    <code>
-        console.log(typeof typeof 1);
+    <code>console.log(typeof typeof 1);
     </code>
