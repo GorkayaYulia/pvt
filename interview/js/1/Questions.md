@@ -15,9 +15,9 @@
 8. Что и почему вернет:<br/>
     <code>(function() {
             var foo = boo = 1;
-        })();<br/>
-        console.log(foo);<br/>
-        console.log(boo);</code>
+        })();</code>
+        <code>console.log(foo);</code>
+        <code>console.log(boo);</code>
 9. Что означает и для чего используется конструкция (примеры): <code> 'use strict' </code>
 10. <strong>Внимательно</strong> посмотрите на код и скажите, что он вернет и почему:<br/>
     <code>function foo1()
