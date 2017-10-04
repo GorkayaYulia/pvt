@@ -20,12 +20,12 @@
         <code>console.log(boo);</code>
 9. Что означает и для чего используется конструкция (примеры): <code> 'use strict' </code>
 10. <strong>Внимательно</strong> посмотрите на код и скажите, что он вернет и почему:<br/>
-    <code>function foo1()
-        {
-          return {
-              boo: "hello"
-          };
-        }</code><br/>
+    <code>function foo1()</code>
+       <code> {</code>
+          <code>return {</code>
+           <code>   boo: "hello"</code>
+          <code>};</code>
+        <code>}</code><br/>
         <code>function foo2()
         {
           return
