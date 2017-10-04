@@ -20,21 +20,21 @@
         <code>console.log(boo);</code>
 9. Что означает и для чего используется конструкция (примеры): <code> 'use strict' </code>
 10. <strong>Внимательно</strong> посмотрите на код и скажите, что он вернет и почему:<br/>
-    <code>function foo1()</code>><br/>
-       <code> {</code>><br/>
-          <code>return {</code>><br/>
-           <code>   boo: "hello"</code>><br/>
-          <code>};</code>><br/>
-        <code>}</code><br/>
-        <code>function foo2()</code><br/>
-        <code>}{</code><br/>
-          <code>}return</code><br/>
-          <code>}{</code><br/>
-              <code>}boo: "hello"</code><br/>
-          <code>}};</code><br/>
-        <code>}}</code><br/>
-        <code>foo1();</code><br/>
-        <code>foo2();</code><br/>
+    <code>function foo1()
+        {
+          return {
+              boo: "hello"
+          };
+        }<br/>
+        <code>function foo2()
+        {
+          return
+          {
+              boo: "hello"
+          };
+        }<br/>
+        foo1();<br/>
+        foo2();</code>
 11. Что вернет этот код:<br/>
     <code>(function() {
             console.log(1);
