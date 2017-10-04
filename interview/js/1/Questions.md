@@ -15,8 +15,8 @@
 8. Что и почему вернет:<br/>
     <code>(function() {
             var foo = boo = 1;
-        })();
-        console.log(foo);
+        })();<br/>
+        console.log(foo);<br/>
         console.log(boo);</code>
 9. Что означает и для чего используется конструкция (примеры): <code> 'use strict' </code>
 10. <strong>Внимательно</strong> посмотрите на код и скажите, что он вернет и почему:<br/>
@@ -25,15 +25,15 @@
           return {
               boo: "hello"
           };
-        }
+        }<br/>
         function foo2()
         {
           return
           {
               boo: "hello"
           };
-        }
-        foo1();
+        }<br/>
+        foo1();<br/>
         foo2();</code>
 11. Что вернет этот код:<br/>
     <code>(function() {
