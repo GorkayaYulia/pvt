@@ -4,6 +4,9 @@
 
 <ul>
     <li>
+        <a href="instructions/GIT.md">Работа с GIT для курса</a>
+    </li>
+    <li>
         <a href="lectures/01/01.md">01</a>
     </li>
     <li>
