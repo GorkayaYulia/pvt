@@ -10,3 +10,10 @@
         <a href="lectures/02/02.md">02</a>
     </li>
 </ul>
+
+<h2>
+    План курса
+</h2>
+<div>
+<a href="./COURSE_PLAN.md">План<a>
+</div>
