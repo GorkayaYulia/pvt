@@ -11,5 +11,5 @@
 
 информацию оп гит можно посмотерть тут:
 <a href="./../../../instructions/GIT.md">git info</a>
-<li>
+</li>
 </ul>
