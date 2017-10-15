@@ -15,9 +15,6 @@
     };
 
     console.log(foo);
-    debugger;
 
     func1(foo);
-
-    debugger;
 })();
