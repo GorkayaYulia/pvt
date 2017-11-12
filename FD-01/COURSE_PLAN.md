@@ -13,13 +13,17 @@
     таблицы, формы, iframe
 </li>
 <li>
-    Тег base, CSS селекторы,
+    CSS селекторы,
     Приоритет селекторов,
     работа с цветом,
     шрифты, единицы измерения, display
 </li>
 <li>
-    Box-sizing, position, float, video / audio, атрибуты HTML5
+    Box-sizing, 
+    position, 
+    float, 
+    video / audio, 
+    атрибуты HTML5
 </li>
 <li>
     Префиксы, Animation, Transitions, Transform, Progressive enhancement, техника 'подложки'
