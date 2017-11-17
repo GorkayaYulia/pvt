@@ -14,7 +14,10 @@
     </li>
     <li>
         <a href="lectures/04/01.md">04</a>
-    </li>    
+    </li>
+    <li>
+        <a href="lectures/05/01.md">05</a>
+    </li>
 </ul>
 
 <h2>
