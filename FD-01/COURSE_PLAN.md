@@ -26,17 +26,28 @@
     атрибуты HTML5
 </li>
 <li>
-    Префиксы, Animation, Transitions, Transform, Progressive enhancement, техника 'подложки'
+    Animation,
+    Transitions,
+    Transform,
+    Progressive enhancement,
+    Pixel perfect, техника 'подложки'
 </li>
 <li>
-    Верстка, 2-х/3-х колоночная, футер прижатый к подвалу,
-    вертикальное/горизонтальное выравнивания, Bootstrap
+    Верстка, 2-х/3-х колоночная,
+    футер прижатый к подвалу,
+    вертикальное/горизонтальное выравнивания,
+    Bootstrap
 </li>
 <li>
-    БЭМ, Media query, Flex, CSS grid
+    БЭМ,
+    Media query,
+    Flex,
+    CSS grid
 </li>
 <li>
-    Препроцессоры, node и npm для работы с препроцессором, js вступление
+    Препроцессоры,
+    node и npm для работы с препроцессором,
+    js вступление
 </li>
 <li>
     Переменные, типы данных в js, математические операторы, if/switch/for/while, Функции
