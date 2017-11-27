@@ -18,6 +18,9 @@
     <li>
         <a href="lectures/05/01.md">05</a>
     </li>
+    <li>
+        <a href="lectures/06/01.md">06</a>
+    </li>
 </ul>
 
 <h2>
