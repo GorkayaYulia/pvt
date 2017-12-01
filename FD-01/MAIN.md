@@ -21,6 +21,9 @@
     <li>
         <a href="lectures/06/01.md">Типы данных, операторы, блочная модель</a>
     </li>
+    <li>
+        <a href="lectures/07/01.md">БЭМ, Bootstrap, Функции</a>
+    </li>
 </ol>
 
 <h2>
