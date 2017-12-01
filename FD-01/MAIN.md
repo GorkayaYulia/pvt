@@ -2,26 +2,26 @@
     Лекции
 </h1>
 
-<ul>
+<ol>
     <li>
-        <a href="lectures/01/01.md">01</a>
+        <a href="lectures/01/01.md">Введение</a>
     </li>
     <li>
-        <a href="lectures/02/01.md">02</a>
+        <a href="lectures/02/01.md">Клиент-сервер, блочный/строчный элемент</a>
     </li>
     <li>
-        <a href="lectures/03/01.md">03</a>
+        <a href="lectures/03/01.md">Селекторы, шрифты, цвет, display</a>
     </li>
     <li>
-        <a href="lectures/04/01.md">04</a>
+        <a href="lectures/04/01.md">Position, Float</a>
     </li>
     <li>
-        <a href="lectures/05/01.md">05</a>
+        <a href="lectures/05/01.md">Animation</a>
     </li>
     <li>
-        <a href="lectures/06/01.md">06</a>
+        <a href="lectures/06/01.md">Типы данных, операторы, блочная модель</a>
     </li>
-</ul>
+</ol>
 
 <h2>
     План курса
