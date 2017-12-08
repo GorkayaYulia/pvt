@@ -24,6 +24,9 @@
     <li>
         <a href="lectures/07/01.md">БЭМ, Bootstrap, Функции</a>
     </li>
+    <li>
+        <a href="lectures/08/01.md">NodeJs, препроцессоры</a>
+    </li>
 </ol>
 
 <h2>
