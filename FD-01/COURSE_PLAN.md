@@ -45,25 +45,23 @@
     Bootstrap
     БЭМ,
     Функции, способы объявления
-
     Flex,
     CSS grid
 </li>
 <li>
     Препроцессоры,
     node и npm для работы с препроцессором,
-    js вступление
 </li>
 <li>
-    Переменные, типы данных в js, математические операторы, if/switch/for/while, Функции
+   todo
 </li>
 <li>
-    Выборки, события, preventDefault, jquery
+   todo
 </li>
 <li>
-    Области видимости js, this,
+   todo
 </li>
 <li>
-   методы работы с массивом, BOM, обзор ES6
+   todo
 </li>
 </ol>
