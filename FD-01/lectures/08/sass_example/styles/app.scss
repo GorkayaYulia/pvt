@@ -1,0 +1,19 @@
+@import "variables";
+@import "mixin";
+
+.wrapper-decor {
+  width: $app_width;
+  height: $app_height;
+  font: $app_font_size $app_font_family;
+  color: $app_font_color;
+  background: $wrapper_background;
+}
+
+.wrapper {
+  @extend .wrapper-decor;
+  @include border-radius($wrapper_radius);
+
+  &__label {
+    font-size: $app_font_size + .5;
+  }
+}
