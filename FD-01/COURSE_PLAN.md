@@ -53,15 +53,23 @@
     node и npm для работы с препроцессором,
 </li>
 <li>
-   todo
+   Поиск DOM элементов
+   События
+   preventDefault
+   Local/Session storage
 </li>
 <li>
-   todo
+   BOM
+   Работа со стиялми в js
+   Методы работы с Массивами, строками, объектами
 </li>
 <li>
-   todo
+    Понятие и работа с regExp в JS
+    Специальные объекты
+    Ajax, кросс доменные запросы, REST
 </li>
 <li>
-   todo
+   Контексты кода в js
+   this
 </li>
 </ol>
