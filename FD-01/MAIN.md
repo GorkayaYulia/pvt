@@ -27,6 +27,9 @@
     <li>
         <a href="lectures/08/01.md">NodeJs, препроцессоры</a>
     </li>
+    <li>
+        <a href="lectures/08/01.md">Поиск DOM элементов, События, Данные на Клиенте</a>
+    </li>
 </ol>
 
 <h2>
