@@ -55,7 +55,6 @@
 <li>
    Поиск DOM элементов
    События
-   preventDefault
    Local/Session storage
 </li>
 <li>
