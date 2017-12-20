@@ -9,7 +9,7 @@
 
 <script>
     if(localStorage.getItem('loggedIn')) {
-        document.getElementById('wrapper').innerText = 'Hi again ' + window.localStorage.getItem('userName');
+        document.getElementById('wrapper').innerText = 'Hi again ' + localStorage.getItem('userName');
     } else {
         localStorage.setItem('userName', (function() {
             localStorage.setItem('loggedIn', true);
