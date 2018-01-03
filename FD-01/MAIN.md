@@ -34,7 +34,7 @@
         <a href="lectures/10/01.md">Библиотеки</a>
     </li>
     <li>
-        <a href="lectures/11/01.md">Ajax, кросс доменные запросы</a>
+        <a href="lectures/11/01.md">Ajax, методы работы с массивом</a>
     </li>
 </ol>
 
