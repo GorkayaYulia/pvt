@@ -68,7 +68,6 @@
     Ajax, кросс доменные запросы, REST
 </li>
 <li>
-   Контексты кода в js
-   this
+   this, call/apply, тестирование
 </li>
 </ol>
