@@ -37,7 +37,7 @@
         <a href="lectures/11/01.md">Ajax, методы работы с массивом, design patterns</a>
     </li>
     <li>
-        <a href="lectures/11/01.md">this, call/apply, тестирование</a>
+        <a href="lectures/12/01.md">this, call/apply, тестирование</a>
     </li>
 </ol>
 
