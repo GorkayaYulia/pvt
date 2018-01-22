@@ -1,3 +1,9 @@
+<style>
+li {
+    list-style-type: upper-roman;
+}
+</style>
+
 <h1>Course plan</h1>
 
 <ul>
