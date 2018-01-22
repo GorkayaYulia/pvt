@@ -1,42 +1,36 @@
-<style>
-li {
-    list-style-type: upper-roman;
-}
-</style>
-
 <h1>Course plan</h1>
 
 <ul>
 <li>
 PART I (HTML, CSS elementary, CS elementary)
 <ol>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
 </ol>
 </li>
 <li>
 PART II (CSS advanced, JS elementary)
 <ol>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
 </ol>
 </li>
 <li>
 PART III (JS intermediate, FE environment elementary)
 <ol>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
-<li>
+<li style="list-style-type: upper-roman;">
 </li>
 </ol>
 </li>
