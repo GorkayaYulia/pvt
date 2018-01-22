@@ -3,36 +3,36 @@
 <ul>
 <li>
 PART I (HTML, CSS elementary, CS elementary)
-<ol>
+<ul>
 <li style="list-style-type: upper-roman;">
 </li>
-<li style="list-style-type: upper-roman;">
+<li>
 </li>
-<li style="list-style-type: upper-roman;">
+<li>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 PART II (CSS advanced, JS elementary)
-<ol>
-<li style="list-style-type: upper-roman;">
+<ul>
+<li>
 </li>
-<li style="list-style-type: upper-roman;">
+<li>
 </li>
-<li style="list-style-type: upper-roman;">
+<li>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 PART III (JS intermediate, FE environment elementary)
-<ol>
-<li style="list-style-type: upper-roman;">
+<ul>
+<li>
 </li>
-<li style="list-style-type: upper-roman;">
+<li>
 </li>
-<li style="list-style-type: upper-roman;">
+<li>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 Certification
