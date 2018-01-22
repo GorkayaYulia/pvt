@@ -1,5 +1,5 @@
 <h1>
-    Лекции
+    Lectures
 </h1>
 
 <ol>
@@ -42,8 +42,20 @@
 </ol>
 
 <h2>
-    План курса
+    Course Plan
 </h2>
 <div>
 <a href="./COURSE_PLAN.md">План<a>
+</div>
+
+
+<h2>
+    Course info
+</h2>
+<div>
+    <ul>
+        <li>
+            email: rsk.pawel@gmail.com
+        </li>
+    </ul>
 </div>
