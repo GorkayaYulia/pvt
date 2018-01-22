@@ -4,40 +4,40 @@
 
 <ol>
     <li>
-        <a href="lectures/01/01.md">Introduction</a>
+        <a href="lectures/01/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/02/01.md">Block/inline elements, lists, table, form, client-server architecture</a>
+        <a href="lectures/02/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/03/01.md">CSS selectors, Color, Fonts, Display, Units</a>
+        <a href="lectures/03/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/04/01.md">Position, Float</a>
+        <a href="lectures/04/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/05/01.md">Animation</a>
+        <a href="lectures/05/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/06/01.md">Типы данных, операторы, блочная модель</a>
+        <a href="lectures/06/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/07/01.md">БЭМ, Bootstrap, Функции</a>
+        <a href="lectures/07/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/08/01.md">NodeJs, препроцессоры</a>
+        <a href="lectures/08/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/09/01.md">Поиск DOM элементов, События, Данные на Клиенте</a>
+        <a href="lectures/09/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/10/01.md">Библиотеки</a>
+        <a href="lectures/10/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/11/01.md">Ajax, методы работы с массивом, design patterns</a>
+        <a href="lectures/11/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/12/01.md">this, call/apply, тестирование</a>
+        <a href="lectures/12/01.md">** to update **</a>
     </li>
 </ol>
 
