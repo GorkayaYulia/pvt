@@ -36,5 +36,5 @@ PART III (JS intermediate, FE environment elementary)
 </li>
 <li>
 Certification
-/li>
+</li>
 </ul>
