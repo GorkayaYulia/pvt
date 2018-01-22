@@ -4,13 +4,13 @@
 
 <ol>
     <li>
-        <a href="lectures/01/01.md">Введение</a>
+        <a href="lectures/01/01.md">Introduction</a>
     </li>
     <li>
-        <a href="lectures/02/01.md">Клиент-сервер, блочный/строчный элемент</a>
+        <a href="lectures/02/01.md">Block/inline elements, lists, table, form, client-server architecture</a>
     </li>
     <li>
-        <a href="lectures/03/01.md">Селекторы, шрифты, цвет, display</a>
+        <a href="lectures/03/01.md">CSS selectors, Color, Fonts, Display, Units</a>
     </li>
     <li>
         <a href="lectures/04/01.md">Position, Float</a>
