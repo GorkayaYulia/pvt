@@ -11,7 +11,7 @@ PART I (HTML, CSS elementary, CS elementary)
 <li>
 </li>
 </ol>
-/li>
+</li>
 <li>
 PART II (CSS advanced, JS elementary)
 <ol>
@@ -22,7 +22,7 @@ PART II (CSS advanced, JS elementary)
 <li>
 </li>
 </ol>
-/li>
+</li>
 <li>
 PART III (JS intermediate, FE environment elementary)
 <ol>
