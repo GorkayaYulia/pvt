@@ -1,73 +1,40 @@
-<h1>План курса</h1>
+<h1>Course plan</h1>
 
+<ul>
+<li>
+PART I (HTML, CSS elementary, CS elementary)
 <ol>
 <li>
-    Введение,
-    Фронт/Бэк-энды,
-    структура документа,
-    git/github.
 </li>
 <li>
-    Интернет, архитектура клиент-сервер, протокол http,
-    блочный/строчный элементы, списки, семантика,
-    таблицы, формы, iframe
 </li>
 <li>
-    CSS селекторы,
-    Приоритет селекторов,
-    работа с цветом,
-    шрифты, единицы измерения, display
-</li>
-<li>
-    position, 
-    float, 
-    video / audio, 
-    атрибуты HTML5
-</li>
-<li>
-    Animation,
-    Transitions,
-    Transform,
-    Progressive enhancement,
-    Pixel perfect, техника 'подложки',
-    вертикальное/горизонтальное выравнивания
-</li>
-<li>
-    JS типы данных,
-    Операторы,
-    Функции понятие, начало работы с функциями
-    Media queries,
-    Box-sizing (блочная модель)
-    2-х/3-х колоночная
-</li>
-<li>
-    футер прижатый к подвалу,
-    Bootstrap
-    БЭМ,
-    Функции, способы объявления
-    Flex,
-    CSS grid
-</li>
-<li>
-    Препроцессоры,
-    node и npm для работы с препроцессором,
-</li>
-<li>
-   Поиск DOM элементов
-   События
-   Local/Session storage
-</li>
-<li>
-   Библиотеки js (jQuery, D3)
-   Понятие и работа с regExp в JS
-   Работа со стилями в js
-</li>
-<li>
-    Методы работы с Массивами
-    Специальные объекты
-    Ajax, кросс доменные запросы, REST
-</li>
-<li>
-   this, call/apply, тестирование
 </li>
 </ol>
+/li>
+<li>
+PART II (CSS advanced, JS elementary)
+<ol>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ol>
+/li>
+<li>
+PART III (JS intermediate, FE environment elementary)
+<ol>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ol>
+</li>
+<li>
+Certification
+/li>
+</ul>
