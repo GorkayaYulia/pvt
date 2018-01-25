@@ -4,7 +4,7 @@
 
 <ol>
     <li>
-        <a href="lectures/01/01.md">** to update **</a>
+        <a href="lectures/01/01.md">Introduction</a>
     </li>
     <li>
         <a href="lectures/02/01.md">** to update **</a>
