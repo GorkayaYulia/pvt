@@ -47,19 +47,3 @@
 <div>
 <a href="./COURSE_PLAN.md">Plan<a>
 </div>
-
-<h2>
-    Course info
-</h2>
-<div>
-    <ul>
-        <li>
-            email: rsk.pawel@gmail.com
-        </li>
-        <li>
-            <a href="https://docs.google.com/spreadsheets/d/1rcNgk3ASTdmXo9xCqNqbf3_ITJOIgTY-QNLjcg_Xsnw/edit?usp=sharing">
-                group table
-            </a>
-        </li>
-    </ul>
-</div>
