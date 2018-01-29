@@ -8,10 +8,10 @@ PART I (HTML, CSS elementary, CS elementary)
 Introduction
 </li>
 <li>
-Block/inline elements, lists, table, form, client-server architecture
+Block/inline elements, lists, table, form, CSS selectors
 </li>
 <li>
-CSS selectors, Color, Fonts, Display, Units
+CSS selectors priority, client-server architecture, Color, Fonts, Display, Units
 </li>
 <li>
 Position, Float, Video/Audio, Box model
