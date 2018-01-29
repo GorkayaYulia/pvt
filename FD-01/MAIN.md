@@ -10,7 +10,7 @@
         <a href="lectures/02/01.md">HTML elements, CSS selectors</a>
     </li>
     <li>
-        <a href="lectures/03/01.md">** to update **</a>
+        <a href="lectures/03/01.md">Colors, Fonts, Display, Client-server</a>
     </li>
     <li>
         <a href="lectures/04/01.md">** to update **</a>
