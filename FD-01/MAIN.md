@@ -13,7 +13,7 @@
         <a href="lectures/03/01.md">Colors, Fonts, Display, Client-server</a>
     </li>
     <li>
-        <a href="lectures/04/01.md">** to update **</a>
+        <a href="lectures/04/01.md">Position, float, box model</a>
     </li>
     <li>
         <a href="lectures/05/01.md">** to update **</a>
