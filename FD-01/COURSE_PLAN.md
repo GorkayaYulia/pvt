@@ -37,7 +37,7 @@ JS introduction, data types in JS, operators, Functions introduction
 </ul>
 </li>
 <li>
-PART III (JS intermediate, FE environment elementary)
+PART III (JS intermediate)
 <ul>
 <li>
 Get elements from DOM, Events, Array methods
@@ -49,7 +49,7 @@ Ajax, Client-side data storages, SPA introduction
 JS libraries, jQuery, Underscore, D3
 </li>
 <li>
-NodeJS introduction, NPM basic usage, Code testing introduction
+????
 </li>
 </ul>
 </li>
