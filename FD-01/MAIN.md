@@ -16,13 +16,13 @@
         <a href="lectures/04/01.md">Position, float, box model</a>
     </li>
     <li>
-        <a href="lectures/05/01.md">** to update **</a>
+        <a href="lectures/05/01.md">Animation, pixel perfect, vertical/horizontal alignment</a>
     </li>
     <li>
-        <a href="lectures/06/01.md">** to update **</a>
+        <a href="lectures/06/01.md">Media queries, Flex, Grid, BEM, Bootstrap</a>
     </li>
     <li>
-        <a href="lectures/07/01.md">** to update **</a>
+        <a href="lectures/07/01.md">NodeJS/npm introduction, CSS Preprocessors</a>
     </li>
     <li>
         <a href="lectures/08/01.md">** to update **</a>

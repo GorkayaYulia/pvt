@@ -22,13 +22,14 @@ Position, float, video/audio, box model
 PART II (CSS advanced, JS elementary)
 <ul>
 <li>
-CSS makeup, Flex, Grid
+Animation, pixel perfect, vertical/horizontal alignment,
+pinned footer, 2 / 3 columns layout
 </li>
 <li>
-Animation, Adaptive layout
+Media queries, Flex, Grid, BEM, Bootstrap
 </li>
 <li>
-BEM, Bootstrap, CSS Preprocessors
+NodeJS/npm introduction, CSS Preprocessors / local usage with NodeJS and npm
 </li>
 <li>
 JS introduction, data types in JS, operators, Functions introduction
