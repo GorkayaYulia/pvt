@@ -32,7 +32,8 @@ Media queries, Flex, Grid, BEM, Bootstrap
 NodeJS/npm introduction, CSS Preprocessors / local usage with NodeJS and npm
 </li>
 <li>
-JS introduction, data types in JS, operators, Functions introduction
+Programming languages overview, general principles of programming,
+JS introduction, data types in JS, operators
 </li>
 </ul>
 </li>
@@ -40,13 +41,13 @@ JS introduction, data types in JS, operators, Functions introduction
 PART III (JS intermediate)
 <ul>
 <li>
-Get elements from DOM, Events, Array methods
+Functions introduction, DOM, Events
 </li>
 <li>
-Ajax, Client-side data storages, SPA introduction
+Array methods, Ajax, SPA introduction, Client-side data storage
 </li>
 <li>
-JS libraries, jQuery, Underscore, D3
+JS libraries, jQuery, Underscore, D3, RegExp
 </li>
 <li>
 ????

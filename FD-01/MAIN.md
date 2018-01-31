@@ -28,10 +28,10 @@
         <a href="lectures/08/01.md">** to update **</a>
     </li>
     <li>
-        <a href="lectures/09/01.md">** to update **</a>
+        <a href="lectures/09/01.md">Functions introduction, DOM, Events</a>
     </li>
     <li>
-        <a href="lectures/10/01.md">** to update **</a>
+        <a href="lectures/10/01.md">Array methods, Ajax, SPA introduction, Client-side data storage</a>
     </li>
     <li>
         <a href="lectures/11/01.md">** to update **</a>
