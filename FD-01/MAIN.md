@@ -25,7 +25,7 @@
         <a href="lectures/07/01.md">NodeJS/npm introduction, CSS Preprocessors</a>
     </li>
     <li>
-        <a href="lectures/08/01.md">** to update **</a>
+        <a href="lectures/08/01.md">Programming languages overview, general principles of programming, JS introduction</a>
     </li>
     <li>
         <a href="lectures/09/01.md">Functions introduction, DOM, Events</a>
