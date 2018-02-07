@@ -34,7 +34,7 @@
         <a href="lectures/10/01.md">Array methods, Ajax, SPA introduction, Client-side data storage</a>
     </li>
     <li>
-        <a href="lectures/11/01.md">** to update **</a>
+        <a href="lectures/11/01.md">JS libraries(jQuery, Underscore, D3), RegExp</a>
     </li>
     <li>
         <a href="lectures/12/01.md">** to update **</a>
