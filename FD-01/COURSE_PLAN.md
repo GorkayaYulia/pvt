@@ -1,6 +1,7 @@
 <h1>Course plan</h1>
 
 <ul>
+
 <li>
 PART I (HTML, CSS elementary)
 <ul>
@@ -18,6 +19,7 @@ Position, float, video/audio, box model
 </li>
 </ul>
 </li>
+
 <li>
 PART II (CSS advanced, JS elementary)
 <ul>
@@ -37,6 +39,7 @@ JS introduction, data types in JS, operators
 </li>
 </ul>
 </li>
+
 <li>
 PART III (JS intermediate)
 <ul>
@@ -50,7 +53,7 @@ Array methods, Ajax, SPA introduction, Client-side data storage
 JS libraries, jQuery, Underscore, D3, RegExp
 </li>
 <li>
-????
+Bubble sorting, Prime numbers, sequence of brackets
 </li>
 </ul>
 </li>
