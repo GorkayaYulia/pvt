@@ -34,7 +34,7 @@
         <a href="lectures/10/01.md">Array methods, Ajax, SPA introduction, Client-side data storage</a>
     </li>
     <li>
-        <a href="lectures/11/01.md">JS libraries(jQuery, Underscore, D3), RegExp, Briefly about testing</a>
+        <a href="lectures/11/01.md">JS libraries(jQuery, Underscore, D3), RegExp, briefly about testing</a>
     </li>
     <li>
         <a href="lectures/12/01.md">Algorithmic tasks on js</a>
