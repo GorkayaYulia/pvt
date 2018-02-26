@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="app"></div>
+
+<script src="../react/build/react.js"></script>
+<script src="../react/build/react-dom.js"></script>
+<script>
+    let Component = React.createClass({
+        render: function() {
+            return React.DOM.span(null, 'from comp' + this.props.name);
+        }
+    });
+
+    let AnotherComp = React.createClass({
+       propTypes: {
+           name: React.PropTypes.string.isRequired,
+           middleName: React.PropTypes.string
+       },
+
+       getDefaultProps: function() {
+           return {
+               middleName: "Mike"
+           }
+       },
+
+       render: function () {
+           return React.DOM.span(null, "My name is " + this.props.name + this.props.middleName)
+       }
+    });
+
+
+    ReactDOM.render(
+        React.createElement(AnotherComp, {
+            name: "bob"
+        }),
+
+        document.getElementById("app")
+    );
+</script>
+</body>
+</html>

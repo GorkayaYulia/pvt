@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <div id="app"></div>
+
+    <script src="../react/build/react.js"></script>
+    <script src="../react/build/react-dom.js"></script>
+    <script>
+        ReactDOM.render(
+
+            React.DOM.h1({
+                    id: "header"
+                },
+                React.DOM.span({
+                    className: "sample",
+                    style: {
+                        fontFamily: "Verdana"
+                    }
+                }, "Hello"),
+                "World"
+            ),
+
+            document.getElementById("app")
+        );
+    </script>
+
+</body>
+</html>
