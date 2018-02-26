@@ -13,7 +13,7 @@
         <a href="lectures/03/01.md">Events</a>
     </li>
     <li>
-        <a href="lectures/04/01.md">EcmaScript 6</a>
+        <a href="lectures/04/01.md">ECMAScript 6</a>
     </li>
     <li>
         <a href="lectures/05/01.md">Ajax, WebStorage API</a>
