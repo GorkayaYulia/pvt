@@ -10,7 +10,7 @@
         <a href="lectures/02/01.md">Execution contexts, this, closure</a>
     </li>
     <li>
-        <a href="lectures/03/01.md">Events</a>
+        <a href="lectures/03/01.md">Events, Timeout/Interval</a>
     </li>
     <li>
         <a href="lectures/04/01.md">ECMAScript 6</a>

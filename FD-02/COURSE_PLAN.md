@@ -3,7 +3,7 @@
 <ul>
 
 <li>
-JS as programming language, variables, data types, functions, DOM, events (briefly)
+JS as programming language, variables, data types, functions, DOM, events(briefly)
 </li>
 <li>
 Execution contexts, this, call/apply, closure
