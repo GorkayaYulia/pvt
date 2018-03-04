@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>XMLHttpRequest</title>
+</head>
+<body>
+
+
+<script>
+    let my_request = new XMLHttpRequest();
+    my_request.open('GET', 'https://jsonplaceholder.typicode.com/posts', false);
+    my_request.send();
+
+    if (my_request.status === 200) {
+        console.log("Response was recived");
+    }
+
+    console.log(my_request);
+    console.log("JSON: ");
+    console.log(my_request.response);
+    console.log("JS Object: ");
+    console.log(JSON.parse(my_request.response));
+</script>
+</body>
+</html>
