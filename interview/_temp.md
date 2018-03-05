@@ -1,70 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            font-size: 1.1em;
-        }
-
-        ol li {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-    <ol>
-        <li>
-            С какого места кода не доступны свойства и методы глобального объекта?
-        </li>
-        <li>
-            Что получится в результате сравнения и почему <br/>
-            <code>
-                (function(){})() === window.такоеВотСвойство;
-            </code>
-        </li>
-        <li>
-            Что вернет вызов функции? <br/>
-            <code>
-                let fooSample = function(){ return arguments.shift(0) };<br/>
-                fooSample(1,2,3)`;
-            </code>
-        </li>
-        <li>
-            Объясните почему: <br/>
-            <code>
-                1 == new Number(1) //-> true;<br/>
-                1 === new Number(1) //-> false;
-            </code>
-        </li>
-        <li>
-            Что получится в результате? <br/>
-            <code>
-                let [,,foo,,,...boo] = [1,2,3,4,5,6,7,8,9,10];
-            </code>
-        </li>
-        <li>
-            Как отменить распространение события (всплытие/перехват)?
-        </li>
-        <li>
-            Что и почему вернет: <br/>
-            <code>
-                {} === {}
-            </code>
-        </li>
-        <li>
-            Что и почему вернет:<br/>
-            <code>
-                (function() {
-                    var foo = boo = 1;
-                })();
-                <br/>
-                console.log(foo);
-                console.log(boo)
-            </code>
-        </li>
         <li>
             Что означает и для чего используется конструкция (примеры): <br/>
             <code>
@@ -149,12 +82,4 @@
                 console.log(a[b]);
                 </code>
         </li>
-        <li>
-            Что выведет код:<br/>
-            <code>
-                console.log(typeof typeof 1);
-            </code>
-        </li>
     </ol>
-</body>
-</html>
