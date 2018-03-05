@@ -1,30 +1,4 @@
-        <li>
-            Что означает и для чего используется конструкция (примеры): <br/>
-            <code>
-                'use strict'
-            </code>
-        </li>
-        <li>
-            <strong>Внимательно</strong> посмотрите на код и скажите, что он вернет и почему:<br/>
-            <code>
-                function foo1() {
-                    return {
-                        boo: "hello"
-                    };
-                }
-                <br/>
-                function foo2(){
-                    return
-                    {
-                        boo: "hello"
-                    };
-                }
-                <br/>
-                foo1();
-                foo2();
-            </code>
-        </li>
-        <li>
+
             Что вернет этот код:<br/>
             <code>
                 (function() {
