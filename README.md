@@ -4,7 +4,7 @@
 
 <ul>
     <li>
-        <a href="interview/INTERVIEW.md">Interview questions</a>
+        <a href="interview/MAIN.md">Interview</a>
     </li>
     <li>
         <a href="js/debugging/README.md">Debugging</a>
