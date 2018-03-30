@@ -1,3 +1,3 @@
 npm i <br/>
-npm run sass
+npm run sass <br/>
 npm run min
