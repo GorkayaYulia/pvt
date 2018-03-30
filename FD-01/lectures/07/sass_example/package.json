@@ -4,14 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node-sass styles -o build/styles"
+    "sass": "node-sass styles/app.scss -o build/styles",
+    "min": "minify -o build/result.min.css build/styles/app.css"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "reset-css": "latest",
     "bootstrap": "latest"
   },
   "devDependencies": {
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.7.2",
+    "minifier": "latest"
   }
 }

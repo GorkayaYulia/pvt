@@ -1,2 +1,3 @@
 npm i <br/>
-npm run build
+npm run sass
+npm run min
