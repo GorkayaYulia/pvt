@@ -7,9 +7,6 @@
         <a href="interview/MAIN.md">Interview</a>
     </li>
     <li>
-        <a href="js/debugging/README.md">Debugging</a>
-    </li>
-    <li>
         <a href="FD-01/MAIN.md">FD-01</a>
     </li>
     <li>
