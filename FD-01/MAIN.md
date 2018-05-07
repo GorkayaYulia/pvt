@@ -37,7 +37,7 @@
         <a href="lectures/11/01.md">JS libraries(jQuery, Underscore, D3), RegExp, briefly about testing</a>
     </li>
     <li>
-        <a href="lectures/12/01.md">Algorithmic tasks on js</a>
+        <a href="lectures/12/01.md">Frameworks introduction, React</a>
     </li>
 </ol>
 

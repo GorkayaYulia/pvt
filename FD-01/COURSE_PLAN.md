@@ -53,7 +53,7 @@ Array methods, Ajax, SPA introduction, Client-side data storage
 JS libraries, jQuery, Underscore, D3, RegExp
 </li>
 <li>
-Bubble sorting, prime numbers, sequence of brackets, sum of array elements
+Frameworks introduction, React
 </li>
 </ul>
 </li>
