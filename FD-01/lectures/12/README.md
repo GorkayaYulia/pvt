@@ -4,5 +4,5 @@ npm i
 npx create-react-app my-app
 cd my-app
 npm start
-npm build
+npm run-script build
 npm test
