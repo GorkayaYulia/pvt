@@ -19,25 +19,25 @@
         <a href="lectures/05/01.md">Ajax, WebStorage API</a>
     </li>
     <li>
-        <a href="lectures/06/01.md"></a>
+        <a href="lectures/06/01.md">--in update--</a>
     </li>
     <li>
-        <a href="lectures/07/01.md"></a>
+        <a href="lectures/07/01.md">--in update--</a>
     </li>
     <li>
-        <a href="lectures/08/01.md"></a>
+        <a href="lectures/08/01.md">--in update--</a>
     </li>
     <li>
-        <a href="lectures/09/01.md"></a>
+        <a href="lectures/09/01.md">--in update--</a>
     </li>
     <li>
-        <a href="lectures/10/01.md"></a>
+        <a href="lectures/10/01.md">--in update--</a>
     </li>
     <li>
-        <a href="lectures/11/01.md"></a>
+        <a href="lectures/11/01.md">--in update--</a>
     </li>
     <li>
-        <a href="lectures/12/01.md"></a>
+        <a href="lectures/12/01.md">--in update--</a>
     </li>
 </ol>
 
