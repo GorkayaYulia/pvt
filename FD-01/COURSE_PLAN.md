@@ -8,10 +8,10 @@ Brief introduction
 CSS selectors
 </li>
 <li>
-Position/Float, Animation
+Position, Float, BoxModel
 </li>
 <li>
-
+Animation, Markup
 </li>
 <li>
 
