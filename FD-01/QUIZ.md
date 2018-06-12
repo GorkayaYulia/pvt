@@ -5,10 +5,12 @@ Quiz before course FD-01(html/css/js)
 <div>
 
 <div>
-Ответы присылать на почту - rsk.pawel@gmail.com
+Ответы присылать на почту - <strong>rsk.pawel@gmail.com</strong>
 <br>
-Если есть вопросы скайп - pawel_rosolko
+Если есть вопросы скайп - <strong>pawel_rosolko</strong>
 </div>
+
+<br>
 
 <ul>
 <li>
