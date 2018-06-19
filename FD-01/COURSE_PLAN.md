@@ -14,7 +14,7 @@ Position, Float, BoxModel
 Animation, Markup
 </li>
 <li>
-Media Queries, BEM, Bootstrap
+Media Queries, BEM, Bootstrap, Internet
 </li>
 <li>
 CSS preprocessors, npm(nodejs)
