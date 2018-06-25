@@ -20,7 +20,7 @@ Media Queries, BEM, Bootstrap, Internet
 CSS preprocessors, NPM(nodejs)
 </li>
 <li>
-
+JavaScript introduction
 </li>
 <li>
 
