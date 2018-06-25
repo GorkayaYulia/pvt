@@ -17,7 +17,7 @@ Animation, Markup
 Media Queries, BEM, Bootstrap, Internet
 </li>
 <li>
-CSS preprocessors, npm(nodejs)
+CSS preprocessors, NPM(nodejs)
 </li>
 <li>
 

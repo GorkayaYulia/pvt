@@ -19,7 +19,7 @@
         <a href="lectures/05/01.md">--in update--</a>
     </li>
     <li>
-        <a href="lectures/06/01.md">--in update--</a>
+        <a href="lectures/06/01.md">CSS preprocessors, NPM(nodejs)</a>
     </li>
     <li>
         <a href="lectures/07/01.md">--in update--</a>
