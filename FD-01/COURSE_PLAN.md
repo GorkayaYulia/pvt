@@ -23,7 +23,7 @@ CSS preprocessors, NPM(nodejs)
 JavaScript introduction
 </li>
 <li>
-
+Functions
 </li>
 <li>
 
