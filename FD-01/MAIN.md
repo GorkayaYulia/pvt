@@ -28,7 +28,7 @@
         <a href="lectures/08/01.md">Functions, Array Methods</a>
     </li>
     <li>
-        <a href="lectures/09/01.md">--in update--</a>
+        <a href="lectures/09/01.md">Events, AJAX</a>
     </li>
     <li>
         <a href="lectures/10/01.md">--in update--</a>
