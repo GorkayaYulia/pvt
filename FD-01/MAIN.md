@@ -40,10 +40,3 @@
         <a href="lectures/12/01.md">--in update--</a>
     </li>
 </ol>
-
-<h2>
-    Course Plan
-</h2>
-<div>
-<a href="./COURSE_PLAN.md">Plan<a>
-</div>
