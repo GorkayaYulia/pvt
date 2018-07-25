@@ -28,10 +28,10 @@
         <a href="lectures/08/01.md">Functions, Array methods</a>
     </li>
     <li>
-        <a href="lectures/09/01.md">Events, AJAX</a>
+        <a href="lectures/09/01.md">Events, AJAX, Object in-depth</a>
     </li>
     <li>
-        <a href="lectures/10/01.md">Web storage API, this</a>
+        <a href="lectures/10/01.md">Web storage API, this, closure</a>
     </li>
     <li>
         <a href="lectures/11/01.md">JS libraries overview</a>

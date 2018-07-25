@@ -1,3 +1,10 @@
+Object
+
+this
+
+Closure
+
+
 <a href="02.md">next</a>
 
 <h1>Bubble sorting</h1>
