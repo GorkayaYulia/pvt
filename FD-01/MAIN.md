@@ -25,7 +25,7 @@
         <a href="lectures/07/01.md">JavaScript introduction</a>
     </li>
     <li>
-        <a href="lectures/08/01.md">Functions, Array Methods</a>
+        <a href="lectures/08/01.md">Functions, Array methods</a>
     </li>
     <li>
         <a href="lectures/09/01.md">Events, AJAX</a>
