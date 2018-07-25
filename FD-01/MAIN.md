@@ -16,7 +16,7 @@
         <a href="lectures/04/01.md">Animation, Markup</a>
     </li>
     <li>
-        <a href="lectures/05/01.md">--in update--</a>
+        <a href="lectures/05/01.md">Media queries, BEM, HTTP</a>
     </li>
     <li>
         <a href="lectures/06/01.md">CSS preprocessors, NPM(nodejs)</a>
@@ -31,12 +31,12 @@
         <a href="lectures/09/01.md">Events, AJAX</a>
     </li>
     <li>
-        <a href="lectures/10/01.md">--in update--</a>
+        <a href="lectures/10/01.md">Web storage API, this</a>
     </li>
     <li>
-        <a href="lectures/11/01.md">--in update--</a>
+        <a href="lectures/11/01.md">JS libraries overview</a>
     </li>
     <li>
-        <a href="lectures/12/01.md">--in update--</a>
+        <a href="lectures/12/01.md">JS frameworks overview</a>
     </li>
 </ol>
